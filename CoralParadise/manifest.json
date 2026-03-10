@@ -1,0 +1,18 @@
+{
+  "Group": "Vezinthe",
+  "Name": "Coral Paradise",
+  "Version": "1.0.0",
+  "Description": "Custom WorldGenV2 Zone for the Contest",
+  "Authors": [
+    {
+      "Name": "Vezinthe",
+      "Email": "example@example.com",
+      "Url": "https://your-url.com"
+    }
+  ],
+  "Website": "https://your-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
