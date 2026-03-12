@@ -26,11 +26,11 @@
 						"Type":	"Manual",
 						"Points":	[{
 								"$NodeId":	"CurvePoint-bf4329a6-0b07-4639-8c4d-bdf32a268131",
-								"In":	-50,
+								"In":	0,
 								"Out":	1
 							}, {
 								"$NodeId":	"CurvePoint-2f391d28-2f6e-42b8-9563-d8f22c6846b4",
-								"In":	-40,
+								"In":	90,
 								"Out":	-1
 							}]
 					},
@@ -99,8 +99,8 @@
 			"Queue":	[{
 					"$NodeId":	"SimpleHorizontalMaterialProvider-ba210781-cfcf-4af6-a954-cd99c8bb6a04",
 					"Type":	"SimpleHorizontal",
-					"TopY":	93,
-					"TopBaseHeight":	"Base",
+					"TopY":	70,
+					"TopBaseHeight":	"Water",
 					"BottomY":	0,
 					"BottomBaseHeight":	"Bedrock",
 					"Material":	{
