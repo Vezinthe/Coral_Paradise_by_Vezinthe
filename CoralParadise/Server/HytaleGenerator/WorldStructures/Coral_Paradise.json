@@ -2,24 +2,29 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Coral_Oceans",
-      "Min": -1,
-      "Max": -0.4
+      "Biome": "Winding_Reefs",
+      "Min": -1.5,
+      "Max": -0.75
     },
     {
       "Biome": "Coral_Garden",
-      "Max": -0.4,
-      "Min": -0.4
+      "Min": -0.75,
+      "Max": -0.5
     },
     {
-      "Biome": "Winding_Reefs",
-      "Min": 0.4,
-      "Max": 1
+      "Biome": "Coral_Dunes",
+      "Max": 0,
+      "Min": -0.5
+    },
+    {
+      "Biome": "Coral_Ocean",
+      "Min": 0,
+      "Max": 1.5
     }
   ],
-  "DefaultBiome": "Coral_Garden",
-  "DefaultTransitionDistance": 32,
-  "MaxBiomeEdgeDistance": 32,
+  "DefaultBiome": "Coral_Ocean",
+  "DefaultTransitionDistance": 48,
+  "MaxBiomeEdgeDistance": 48,
   "Density": {
     "Type": "Imported",
     "Name": "Coral-Biome-Map"
